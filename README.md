@@ -1,2 +1,60 @@
-# Motley-Fool-Investment-Club-Dashboard
-The Berea College Motley Fool Investment Club Portfolio Risk and Analytics Dashboard
+# Portfolio Performance & Risk Dashboard  
+**Berea College Motley Fool Investment Club**
+
+## Overview
+
+This repository showcases a **Portfolio Performance and Risk Dashboard** built for the **Berea College Motley Fool Investment Club**, a student-managed investment fund responsible for portfolio monitoring, risk oversight, and performance reporting.
+
+The dashboard was developed in **Power BI** and used internally for ongoing portfolio review and Board-level reporting. Due to organizational access restrictions, a static **PDF export** is included here to demonstrate the structure, analytics, and visual design of the dashboard.
+
+## Dashboard Objectives
+
+The dashboard was designed to support three core functions:
+
+### Portfolio Transparency
+- Provide a clear, at-a-glance view of holdings, sector exposure, and concentration risk.
+
+### Performance Monitoring
+- Track portfolio value over time.
+- Benchmark performance against the S&P 500.
+
+### Risk Awareness
+- Enable quick identification of exposure imbalances.
+- Highlight long-term risk drivers to inform allocation and governance decisions.
+
+## Key Components
+
+The included PDF highlights the following elements:
+
+### Portfolio Composition
+- Holdings breakdown by ticker.
+- Relative position sizing across the portfolio.
+- Visual concentration analysis using treemap charts.
+
+### Sector Allocation
+- Sector-level exposure visualization.
+- Diversification and over-/under-weight assessment.
+- Alignment with portfolio risk guidelines.
+
+### Performance Tracking
+- Portfolio NAV estimate over time.
+- Benchmark comparison versus the S&P 500.
+- Performance trends across multiple market cycles.
+
+## Tools & Technologies
+
+- **Power BI** for dashboard development and visualization  
+- **Excel / CSV data sources** for portfolio holdings and historical performance  
+- **Time-series data modeling** for NAV and benchmark comparisons  
+
+## Usage Notes
+
+This repository is intended as a **demonstration artifact**, not a live dashboard.
+
+The included PDF reflects a snapshot of the dashboard structure and analytical approach used for real portfolio oversight, without exposing live data connections or proprietary access.
+
+## Context
+
+The Motley Fool Investment Club manages a ~$450K portfolio and conducts structured investment reviews, risk monitoring, and performance reporting as part of its governance process.
+
+This dashboard was created to support those workflows and improve the clarity, consistency, and discipline of portfolio decision-making.
