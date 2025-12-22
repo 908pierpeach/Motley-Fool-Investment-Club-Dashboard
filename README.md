@@ -1,6 +1,4 @@
-# Portfolio Performance & Risk Dashboard  
-**Berea College Motley Fool Investment Club**
-
+# Portfolio Performance & Risk Dashboard
 ## Overview
 
 This repository showcases a **Portfolio Performance and Risk Dashboard** built for the **Berea College Motley Fool Investment Club**, a student-managed investment fund responsible for portfolio monitoring, risk oversight, and performance reporting.
@@ -13,11 +11,9 @@ The dashboard was designed to support three core functions:
 
 ### Portfolio Transparency
 - Provide a clear, at-a-glance view of holdings, sector exposure, and concentration risk.
-
 ### Performance Monitoring
 - Track portfolio value over time.
 - Benchmark performance against the S&P 500.
-
 ### Risk Awareness
 - Enable quick identification of exposure imbalances.
 - Highlight long-term risk drivers to inform allocation and governance decisions.
@@ -30,22 +26,14 @@ The included PDF highlights the following elements:
 - Holdings breakdown by ticker.
 - Relative position sizing across the portfolio.
 - Visual concentration analysis using treemap charts.
-
 ### Sector Allocation
 - Sector-level exposure visualization.
 - Diversification and over-/under-weight assessment.
 - Alignment with portfolio risk guidelines.
-
 ### Performance Tracking
 - Portfolio NAV estimate over time.
 - Benchmark comparison versus the S&P 500.
 - Performance trends across multiple market cycles.
-
-## Tools & Technologies
-
-- **Power BI** for dashboard development and visualization  
-- **Excel / CSV data sources** for portfolio holdings and historical performance  
-- **Time-series data modeling** for NAV and benchmark comparisons  
 
 ## Usage Notes
 
