@@ -3,9 +3,9 @@
 
 This repository showcases a **Portfolio Performance and Risk Dashboard** built for the **Berea College Motley Fool Investment Club**, a student-managed investment fund responsible for portfolio monitoring, risk oversight, and performance reporting.
 
-The dashboard was developed in **Power BI** and used internally for ongoing portfolio review and Board-level reporting. Due to organizational access restrictions, a static **PDF export** is included here to demonstrate the structure, analytics, and visual design of the dashboard.
+The dashboard was developed in **Power BI** and used internally for ongoing portfolio review and Board-level reporting. Due to organizational access restrictions, a static **PNG export** is included here to demonstrate the structure, analytics, and visual design of the dashboard.
 
-**[View the Dashboard (PDF)](PowerBI.pdf)**
+**[View the Dashboard (PNG)](Dashboard.png)**
 ## Dashboard Objectives
 
 The dashboard was designed to support three core functions:
@@ -21,7 +21,7 @@ The dashboard was designed to support three core functions:
 
 ## Key Components
 
-The included PDF highlights the following elements:
+The included PNG highlights the following elements:
 
 ### Portfolio Composition
 - Holdings breakdown by ticker.
@@ -40,7 +40,7 @@ The included PDF highlights the following elements:
 
 This repository is intended as a **demonstration artifact**, not a live dashboard.
 
-The included PDF reflects a snapshot of the dashboard structure and analytical approach used for real portfolio oversight, without exposing live data connections or proprietary access.
+The included PNG reflects a snapshot of the dashboard structure and analytical approach used for real portfolio oversight, without exposing live data connections or proprietary access.
 
 ## Context
 
