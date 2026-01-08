@@ -5,7 +5,7 @@ This repository showcases a **Portfolio Performance and Risk Dashboard** built f
 
 The dashboard was developed in **Power BI** and used internally for ongoing portfolio review and Board-level reporting. Due to organizational access restrictions, a static **PNG export** is included here to demonstrate the structure, analytics, and visual design of the dashboard.
 
-**[View the Dashboard (PNG)](Dashboard.png)**
+**[View the Dashboard (PNG)](Dashboard1.png)**
 ## Dashboard Objectives
 
 The dashboard was designed to support three core functions:
@@ -23,18 +23,16 @@ The dashboard was designed to support three core functions:
 
 The included PNG highlights the following elements:
 
-### Portfolio Composition
+### KPI Dashboard
 - Holdings breakdown by ticker.
 - Relative position sizing across the portfolio.
 - Visual concentration analysis using treemap charts.
-### Sector Allocation
-- Sector-level exposure visualization.
-- Diversification and over-/under-weight assessment.
-- Alignment with portfolio risk guidelines.
 ### Performance Tracking
-- Portfolio NAV estimate over time.
+- Portfolio NAV since August 2025.
 - Benchmark comparison versus the S&P 500.
 - Performance trends across multiple market cycles.
+### Currently Being Implemented
+- Risk Analytics Dashboard
 
 ## Usage Notes
 
