@@ -5,7 +5,7 @@ This repository showcases a **Portfolio Performance and Risk Dashboard** built f
 
 The dashboard was developed in **Power BI** and used internally for ongoing portfolio review and Board-level reporting. Due to organizational access restrictions, a static **PNG export** is included here to demonstrate the structure, analytics, and visual design of the dashboard.
 
-**[View the Line Charts (PNG)](Dashboard1.png)** /n
+**[View the Line Charts (PNG)](Dashboard1.png)** \n
 **[View the Treemap (PNG)](Dashboard2.png)**
 ## Dashboard Objectives
 
